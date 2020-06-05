@@ -1,5 +1,8 @@
-This project represent the fusion of two parts: a Mecanum wheel and a screw propeller.
-Why fusing those ? Because a Mecanum wheel allow an omnidirectional control of a vehicle on Hard ground (concrete...)but not on soft ground(mud, sand ...), as rock, earth ... could block the wheels, while it is the opposite for the screw propeller.
-It works well on soft ground, and even water, but it's blade could break or deteriorate the road if it was used on hard ground.
-As such fusing both would provide an all-terrain vehicle using both world.
-In this repertory, you will find the different videos of testing realized, images on the designs, the differents Designs realized on Fusion 360, the STL files ready to be printed and finally the code that would have been used if not for the Covid-19 pandemic.
+#Abstract.
+This  paper  introduces  an  omnidirectional  all-terrain  robotmade to a screw-driving and mecanum wheels fusion design. The vehicleis meant to operate on flat surfaces as well as on various uneven onessuch as mud or snow.
+The project inspirations have been fed with manyexisting vehicles that focus on one mechanism to address specific designchallenges. Yet, upon reviewing the field, it appears that the proposeddesign has not been patented so far.
+The research phase consists of severalprototype proposals with the aim of maximizing efficiency. This paperdiscusses the different prototypes with respect to tests and results butalso suggests future improvements to the design.
+#Introduction
+This project consists of the implementation of a vehicle with screw-driving andmecanum wheels fusion. The aim is to design a mobile robot capable of operatingon flat and non-planar surfaces.
+Whilst, the screw-conveyor mechanism is usefulto deal with harsh terrain in extreme environments (i.e. recovering cosmonautsin Russia, ground surveying. . . ), mecanum wheels allow a vehicle to move easilyin all directions.
+This section gives a brief chronology of both mechanisms andintroduces few research papers that served as the starting point for the project.
