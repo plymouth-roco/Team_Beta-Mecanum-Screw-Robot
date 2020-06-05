@@ -11,3 +11,5 @@ The research phase consists of severalprototype proposals with the aim of maximi
 This project consists of the implementation of a vehicle with screw-driving andmecanum wheels fusion. The aim is to design a mobile robot capable of operatingon flat and non-planar surfaces.
 Whilst, the screw-conveyor mechanism is usefulto deal with harsh terrain in extreme environments (i.e. recovering cosmonautsin Russia, ground surveying. . . ), mecanum wheels allow a vehicle to move easilyin all directions.
 This section gives a brief chronology of both mechanisms andintroduces few research papers that served as the starting point for the project.
+
+![](8 - Completed design.png)
