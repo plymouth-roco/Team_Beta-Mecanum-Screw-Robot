@@ -12,4 +12,8 @@ This project consists of the implementation of a vehicle with screw-driving andm
 Whilst, the screw-conveyor mechanism is usefulto deal with harsh terrain in extreme environments (i.e. recovering cosmonautsin Russia, ground surveying. . . ), mecanum wheels allow a vehicle to move easilyin all directions.
 This section gives a brief chronology of both mechanisms andintroduces few research papers that served as the starting point for the project.
 
+<img src="https://github.com/plymouth-roco/Team_Beta-Mecanum-Screw-Robot/blob/master/Images/10%20-%20Final%20roller%20prototype.png"/>
+
 <img src="https://github.com/plymouth-roco/Team_Beta-Mecanum-Screw-Robot/blob/master/Images/8%20-%20Completed%20design.png"/>
+
+<img src="https://github.com/plymouth-roco/Team_Beta-Mecanum-Screw-Robot/blob/master/Images/15%20-%20Second%20complete%20version%20prototype.png"/>
