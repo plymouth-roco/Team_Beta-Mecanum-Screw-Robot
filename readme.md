@@ -8,10 +8,7 @@ This paper introduces an omnidirectional all-terrain robot, made of a fusion bet
 
 This project consists of the implementation of a vehicle with a screw-drive and mecanum wheel fusion. The aim that the robot should be capable of operating on flat and planar surfaces, with mecanum wheels allowing the robot to move easily in all directions. Whilst, the screw propelled vehicle mechanism is useful to deal with harsh terrain in extreme environments (i.e. recovering cosmonauts in Russia, ground surveying…). This section gives a brief chronology of both mechanisms and introduces few research papers that served as the starting point for the project.
 
-Other Sections:
-Design and Implementation
-Experiments
-Discussions
+Other Sections: Design and Implementation, Experiments, Discussions
 
 ### Conclusion
 This paper has introduced the concept of a mecanum wheel screw propelled robot which with its novel propulsion method would be capable of omnidirectional movement on flat ground and soft variable terrain. Throughout the course of the project different designs ideas have been continuously discussed within the team and updated to the overall model design which culminated in prototype for the Mark 6 Screw design and Mark 4 robot model which, due to unforeseen circumstances of COVID-19 could not be completed to the satisfaction of the group prior to submission. Computer-aided design and Computer Aided Manufacturing have been used to design and manufacture the project and lesson learned throughout have been fed back in to improve the design. Finite Element Analysis and Material Analysis have been conducted to assess options for possible future large scale prototypes to be manufactured with high safety factors. The discussion reviews the areas which could have been improved with more availability of manufacturing facilities and general component market.
